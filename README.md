@@ -1,3 +1,8 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋+I'm+Satyavanth+Nagavarapu+!;" />
+</h1>
+
+#  💫 About Me
 - 👋 Hi, I’m @satyavanthdevops
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently aiming to get a good job
@@ -10,6 +15,7 @@
 satyavanthdevops/satyavanthdevops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=satyavanthdevops&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
