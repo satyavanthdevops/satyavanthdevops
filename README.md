@@ -7,7 +7,6 @@
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently aiming to get a good job
 - 💞️ I’m looking to collaborate on the OS related projects
-- 📫 How to reach me : [satyavanth.com](https://satyavanth.com)
 - 😄 Pronouns: he
 - ⚡ Fun fact: open laptop - try to code - close it
 
